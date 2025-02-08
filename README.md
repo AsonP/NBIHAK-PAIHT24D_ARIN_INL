@@ -1,1 +1,1 @@
-# NBIHAK-PAIHT24D
+# NBIHAK-PAIHT24D (AI med Pythonprogrammering)
