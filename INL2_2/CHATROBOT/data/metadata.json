@@ -1,0 +1,120 @@
+{
+  "restaurant": {
+    "name": "CosmoByte Diner",
+    "description": "An AI-driven culinary revolution located in the heart of Neo-Earth Station 7, Sector B. We welcome humans, cyborgs, and extraterrestrial travelers for a unique dining experience.",
+    "location": {
+      "address": "Inside the Nova Dome, next to the Starview Lounge, Neo-Earth Station 7, Sector B",
+      "directions": "Walking distance from the Galactic Shuttle Terminal."
+    },
+    "contact": {
+      "phone": "+1-800-COSMO",
+      "email": "support@cosmobyte.com",
+      "website": "https://www.cosmobyte.com",
+      "reservation_info": "For reservations, call us or book through our AI assistant on the website or our interactive holo-kiosk at the entrance."
+    },
+    "opening_hours": {
+      "monday": "10:00 AM - 10:00 PM",
+      "tuesday": "10:00 AM - 10:00 PM",
+      "wednesday": "10:00 AM - 10:00 PM",
+      "thursday": "10:00 AM - 10:00 PM",
+      "friday": "10:00 AM - 11:00 PM",
+      "saturday": "11:00 AM - 11:00 PM",
+      "sunday": "11:00 AM - 9:00 PM"
+    },
+    "ambiance": "A fusion of modern neon aesthetics, floating holograms, and a panoramic view of the Orion Nebula. Our booths offer adjustable gravity levels for a weightless dining experience.",
+    "chef": {
+      "name": "Chef Byte",
+      "description": "Our advanced AI chef using quantum cooking techniques and nanobot precision to create dishes that surpass traditional cuisine."
+    },
+    "menu": {
+      "appetizers": [
+        {
+          "name": "Zero-Gravity Dumplings",
+          "description": "Delicate dumplings that float in mid-air before melting in your mouth, infused with anti-gravity spice from the Andromeda sector.",
+          "price": "$10"
+        },
+        {
+          "name": "Neon Plasma Bites",
+          "description": "Small glowing spheres bursting with sweet, sour, and umami flavors, sourced from rare exoplanet flora.",
+          "price": "$11"
+        },
+        {
+          "name": "Galactic Herb Salad",
+          "description": "A nutritious mix of hydroponically grown greens from Mars, tossed in a citrus dressing with micro-crystals of space salt.",
+          "price": "$9"
+        }
+      ],
+      "main_courses": [
+        {
+          "name": "Nebula Noodles",
+          "description": "Hand-pulled noodles infused with deep-space fermented soy, served in a glowing broth inspired by the auroras of Jupiter.",
+          "price": "$18"
+        },
+        {
+          "name": "Photon Protein Stew",
+          "description": "A rich and hearty stew made with lab-grown protein, enhanced with a blend of interstellar spices and cosmic herbs.",
+          "price": "$19"
+        },
+        {
+          "name": "Quantum Quinoa Bowl",
+          "description": "A high-protein quinoa dish enriched with roasted asteroid beans and a fermented starfruit glaze.",
+          "price": "$17"
+        },
+        {
+          "name": "Cosmic Curry",
+          "description": "A slow-cooked blend of rare spices from across the Milky Way, delivering an explosion of intergalactic flavors.",
+          "price": "$18"
+        },
+        {
+          "name": "Galactic Gnocchi",
+          "description": "Soft potato dumplings, served in an anti-gravity plating experience, tossed in a starry tomato basil sauce with asteroid-aged cheese.",
+          "price": "$16"
+        },
+        {
+          "name": "Stellar Spaghetti",
+          "description": "Classic spaghetti made from hydroponic wheat, served in a slow-cooked exoplanet tomato sauce infused with quantum-aged garlic.",
+          "price": "$17"
+        }
+      ],
+      "desserts": [
+        {
+          "name": "Astro-Crème Brûlée",
+          "description": "A classic dessert with a plasma-torched caramel crust and vanilla custard infused with stardust.",
+          "price": "$8"
+        },
+        {
+          "name": "Supernova Sorbet",
+          "description": "A refreshing fusion of exotic frozen fruit extracts, served in a misty nitrogen haze.",
+          "price": "$7"
+        },
+        {
+          "name": "Lunar Lava Cake",
+          "description": "A rich, molten chocolate cake with a caramel core that erupts upon cutting, inspired by the volcanic moons of Io.",
+          "price": "$9"
+        }
+      ],
+      "beverages": [
+        {
+          "name": "Quantum Fizz",
+          "description": "A dynamic, color-changing cocktail with zero-gravity bubbles that dance in your glass.",
+          "price": "$12"
+        },
+        {
+          "name": "Dark Matter Espresso",
+          "description": "The densest and richest coffee in the universe, designed for the ultimate caffeine boost.",
+          "price": "$5"
+        },
+        {
+          "name": "Anti-Gravity Smoothie",
+          "description": "A levitating drink made from space-grown berries and nutrient-dense enzymes.",
+          "price": "$8"
+        }
+      ]
+    },
+    "interactive_features": [
+      "Holographic food demonstrations where Chef Byte virtually prepares your meal before your eyes.",
+      "Instant nutritional analysis of your meal, including calorie content and dietary recommendations.",
+      "Personalized flavor matching where our AI analyzes your taste preferences and suggests dishes you'll love."
+    ]
+  }
+}
