@@ -12,7 +12,7 @@ Denna applikation är en del av en skoluppgift och bygger på en chatbot som kan
 
 Chatboten använder OpenAI:s API för att ge dynamiska svar och har fallback-responser för att minska onödiga API-anrop.
 
-🏗 Teknisk uppbyggnad
+# 🏗 Teknisk uppbyggnad
 Projektet består av följande huvudfiler:
 
 * main.py → Hanterar frågorna och skickar dem till rätt källa (FAISS, config.py eller OpenAI API).
@@ -23,7 +23,7 @@ Projektet består av följande huvudfiler:
 
 * data/Hotel_Reviews.csv → Dataset med hotellrecensioner som används för FAISS-sökningar.
 
-🛠 Teknologier som används
+# 🛠 Teknologier som används
 
 * Python 3.10+
 
@@ -35,6 +35,6 @@ Projektet består av följande huvudfiler:
 
 * OpenAI API (för att generera svar där fallback-responser saknas)
 
-📄 Licens
+# 📄 Licens
 Detta projekt är licensierat under MIT-licensen men det är en skoluppgift och kommer endast att används i utbildningssyfte. 
 
