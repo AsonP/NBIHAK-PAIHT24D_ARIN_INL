@@ -24,9 +24,9 @@ Projektet består av följande huvudfiler:
 * data/Hotel_Reviews.csv → Dataset med hotellrecensioner som används för FAISS-sökningar.
 
 # Konfiguration
-Systemprompt: Systemprompten kan konfigureras i config.py under SYSTEM_PROMPT.
+* Systemprompt: Systemprompten kan konfigureras i config.py under SYSTEM_PROMPT.
+* Fördefinierade svar: Fördefinierade svar för shopping och sightseeing kan konfigureras i config.py under FALLBACK_RESPONSES och SIGHTSEEING_LOCATIONS.
 
-Fördefinierade svar: Fördefinierade svar för shopping och sightseeing kan konfigureras i config.py under FALLBACK_RESPONSES och SIGHTSEEING_LOCATIONS.
 # 🛠 Teknologier som används
 
 * Python 3.10+
