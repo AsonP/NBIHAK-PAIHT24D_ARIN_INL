@@ -19,7 +19,7 @@ Projektet består av följande huvudfiler:
 
 * config.py → Innehåller fallback-responser och stödord för att minska hårdkodning i main.py.
 
-* responses.json → Sparar återkommande svar för att minska API-anrop.
+* data/responses.json → Sparar återkommande svar för att minska API-anrop.
 
 * data/Hotel_Reviews.csv → Dataset med hotellrecensioner som används för FAISS-sökningar.
 
