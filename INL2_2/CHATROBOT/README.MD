@@ -23,6 +23,7 @@ Användaren ställer en fråga via terminalen.
 * Svaret visas i terminalen tillsammans med tidigare frågor och svar.
 
 
+
 # 📄 Licens
 Detta projekt är en skoluppgift och används endast i utbildningssyfte.
 
