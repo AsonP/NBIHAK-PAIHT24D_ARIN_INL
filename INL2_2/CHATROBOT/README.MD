@@ -21,3 +21,8 @@ Användaren ställer en fråga via terminalen.
 * Chatboten söker igenom textdata för att hitta relevant information.
 * Språkmodellen (GPT-4) genererar ett svar baserat på den hittade informationen.
 * Svaret visas i terminalen tillsammans med tidigare frågor och svar.
+
+
+# 📄 Licens
+Detta projekt är en skoluppgift och används endast i utbildningssyfte.
+
