@@ -1,0 +1,46 @@
+{
+    "products": [
+        {
+            "EAN": "5000112637939",
+            "Info": "Coca-Cola zero sugar 330ml sleek can",
+            "F\u00f6rpackning": "Aluminium",
+            "Pant": "Alu.burk 1kr (12% moms)"
+        },
+        {
+            "EAN": "5060751219064",
+            "Info": "Monster Ultra Watermelon 500ml",
+            "F\u00f6rpackning": "Aluminium",
+            "Pant": "Alu.burk 1kr (12% moms)"
+        },
+        {
+            "EAN": "7310401052595",
+            "Info": "LOKA HALLON RABARBER",
+            "F\u00f6rpackning": "PET",
+            "Pant": "PET 1kr (12% moms)"
+        },
+        {
+            "EAN": "20315306",
+            "Info": "Nobelander \u00d6l 2,8 %",
+            "F\u00f6rpackning": "Aluminium",
+            "Pant": "Alu.burk 1kr (12% moms)"
+        },
+        {
+            "EAN": "5060335630971",
+            "Info": "Monster Absolutely Zero",
+            "F\u00f6rpackning": "Aluminium",
+            "Pant": "Alu.burk 1kr (12% moms)"
+        },
+        {
+            "EAN": "7310401050461",
+            "Info": "Schweppes Pink Tonic Zero",
+            "F\u00f6rpackning": "PET",
+            "Pant": "PET 1kr (12% moms)"
+        },
+        {
+            "EAN": "76116112513920",
+            "Info": "PREMIER Kolsyrat vatten",
+            "F\u00f6rpackning": "PET",
+            "Pant": "PET 1kr(12% moms)"
+        }
+    ]
+}
