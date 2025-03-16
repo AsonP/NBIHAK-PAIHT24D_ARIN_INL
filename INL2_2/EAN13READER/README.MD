@@ -1,7 +1,7 @@
-# 📦 EAN-kod Skanner
+# 📦 EAN13-kod Skanner
 #
 # 📝 Beskrivning
-Detta projekt är en webbaserad applikation utvecklad i Dash som kan läsa av EAN-13 streckkoder från både kameraskanning och uppladdade bilder. Applikationen är optimerad för enkel användning och har ett tema som laddas via en extern CSS-fil.
+Detta projekt är en webbaserad applikation utvecklad i Dash som kan läsa av EAN-13 streckkoder (burkar och petflaskor) från både kameraskanning och uppladdade bilder. Applikationen är optimerad för enkel användning och har ett tema som laddas via en extern CSS-fil.
 #
 # 🚀 Funktioner
 #### ✅ Skanna EAN-koder via webbkamera
