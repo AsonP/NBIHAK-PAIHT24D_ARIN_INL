@@ -15,8 +15,8 @@ Detta projekt är en webbaserad applikation utvecklad i Dash som kan läsa av EA
 #### │── ean_scanner.py        # Huvudkoden för Dash-applikationen
 #### │── requirements.txt      # Lista över nödvändiga Python-paket
 #### │── /assets               # Innehåller CSS och JSON-data
-#### │ tab  ├── dark_theme.css    # CSS-fil för tema
-#### │   ├── ean_codes.json    # Produktdata med EAN-koder
+#### │++├── dark_theme.css    # CSS-fil för tema
+#### │++├── ean_codes.json    # Produktdata med EAN-koder
 #
 
 
