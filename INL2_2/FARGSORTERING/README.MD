@@ -1,26 +1,28 @@
 # Sopsortera med Färgade Påsar
 
-## Project Overview
+## Projektöversikt
+Detta projekt är en Dash-applikation designad för att sortera avfall med hjälp av färgade påsar. Applikationen tar bilder från en kamera, bearbetar färginformationen och använder maskininlärning för att klassificera färgen i fördefinierade kategorier.
+Den använder OpenCV, Dash och scikit-learn. Den tänar en K-Nearest Neighbors (KNN) modell för färgigenkänning
 
-This project is a Dash application designed to sort waste using colored bags. The application captures images from a camera, processes the color information, and uses machine learning to classify the color into predefined categories.
 
-## Features
+## Funktioner
+- Fånga och bearbeta färginformation från ett livekameraflöde.
+- Träna en maskininlärningsmodell för att känna igen och klassificera färger.
+- Spara och ladda färgdata med JSON-filer.
+- Användarvänligt gränssnitt för att lära systemet nya färger och identifiera befintliga.
 
-- Capture and process color information from a live camera feed.
-- Train a machine learning model to recognize and classify colors.
-- Save and load color data using JSON files.
-- User-friendly interface for teaching the system new colors and identifying existing ones.
+## Användning
+Placera färgdata i katalogen "assets".
 
-## Setup Instructions
+## Kör applikationen:
+python main.py
+Öppna webbläsaren på http://localhost:8050 för att använda applikationen.
 
-### Prerequisites
+## Struktur
+main.py: Huvudprogrammet
+assets/colors.json: JSON-fil med färgdata
+assets/color_model.json: Sparad maskininlärningsmodell
 
-- Python 3.7 or higher
-- pip for package installation
+## Författare
+Applikationen är utvecklad av Peter Arvidsson
 
-### Installation
-
-1. **Clone the Repository**:
-   ```bash
-   git clone <repository-url>
-   cd <repository-directory>
